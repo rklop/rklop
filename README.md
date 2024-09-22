@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rocky
 
-#Sophmore at Amherst College pursuring Computer Science and Mathematics \n
-#Contact me at klopfensteinrocky@gmail.com
+I'm a current sophomore at Amherst College, pursuring a Bachelors in Computer Science and Mathematics
+Contact me at klopfensteinrocky@gmail.com
 

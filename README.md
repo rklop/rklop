@@ -7,4 +7,4 @@
 </ul>
 
 ## Connect with Me
-([https://path-to-your-linkedin-logo.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://linkedin.com/in/rockyklop)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rockyklop)

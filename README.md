@@ -6,4 +6,6 @@
   <li> 📫 Contact me at <a href=klopfensteinrocky@gmail.com> klopfensteinrocky@gmail.com </li>
 </ul>
 
+## Connect with Me
+[🔗](https://linkedin.com/in/rockyklop) LinkedIn
 

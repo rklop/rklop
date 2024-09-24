@@ -7,4 +7,6 @@
 </ul>
 
 ## Connect with Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/rockyklop)
+<a href="https://linkedin.com/in/rockyklop">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/>
+</a>

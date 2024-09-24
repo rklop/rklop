@@ -1,13 +1,13 @@
 # Hi 👋, I'm Rocky
 
 <ul>
-  
+  <br />
   <li> 🌱 I am a current sophomore at Amherst College, pursuring a Bachelors in Computer Science and Mathematics. </li>
-  
+  <br />
   <li> 💸 I am interested in software engineering and positive technological change. </li>
-  
+  <br />
   <li> 📫 Contact me at <a href=klopfensteinrocky@gmail.com> klopfensteinrocky@gmail.com </li>
-  
+  <br />
 </ul>
 
 ## Connect with Me

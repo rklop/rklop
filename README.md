@@ -1,4 +1,6 @@
-# Hi 👋, I'm Rocky
+<p align ="center"
+  # Hi 👋, I'm Rocky
+</p>
 
 <ul>
   <br />

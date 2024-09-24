@@ -10,3 +10,9 @@
 <a href="https://linkedin.com/in/rockyklop">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/>
 </a>
+
+## Languages and Tools
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
+</a>
+

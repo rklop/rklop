@@ -7,5 +7,6 @@
 </ul>
 
 ## Connect with Me
-[🔗](https://linkedin.com/in/rockyklop) LinkedIn
+[![LinkedIn]()]![Uploading linked-in-logo.svg…]()
+(https://linkedin.com/in/rockyklop)
 

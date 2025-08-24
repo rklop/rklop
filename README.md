@@ -4,7 +4,7 @@ I'm a junior at Amherst College studying Computer Science & Mathematics! I'm pas
 
 Feel free to check out some of my work below!
 
-# Featured Projects
+### Featured Projects
 
 ## Connect with Me
 <a href="https://linkedin.com/in/rockyklop">

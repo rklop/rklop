@@ -7,7 +7,10 @@ Feel free to check out some of my work below! ⬇️
 ### Featured Projects
 
 - [verieql-4-text2sql (Python)](https://github.com/rklop/SURF_2025) --
+- ["Drop AI"](https://github.com/rklop/Drop-AI) --
+- ["Tagging The Switch (Python)"](https://github.com/rklop/tagging-the-switch) -- 
 - [Image Edge Detector (Java)](https://github.com/rklop/edge-detector) --
+- [
 
 ## Connect with Me
 <a href="https://linkedin.com/in/rockyklop">

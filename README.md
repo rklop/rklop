@@ -4,7 +4,7 @@ I'm a junior at Amherst College studying Computer Science & Mathematics. I'm pas
 
 Feel free to check out some of my work below! ⬇️
 
-Currently building Stealth. 
+Currently building Stealth AI Startup. 
 
 ### Featured Projects
 

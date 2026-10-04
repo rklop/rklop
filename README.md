@@ -1,20 +1,35 @@
-<h1 align="center">Hi, I'm Rocky! 🪨 </h1>
+# Rocky Klopfenstein
 
-I'm a junior at Amherst College studying Computer Science & Mathematics. I'm passonate about coding, computational research, and backend systems. I'm open to internship oppertunies — please feel free to reach out at rklopfenstein27@amherst.edu
+**AI Systems · Automated Reasoning · Backend Engineering**
 
-Feel free to check out some of my work below! ⬇️
+I'm a Computer Science and Mathematics student at **Amherst College**, graduating in May 2027. I build AI applications and research how to evaluate and verify the code they generate.
 
-Currently building Stealth AI Startup. 
+Previously, I worked on distributed file operations and AI-powered content workflows at **Box**. My research spans text-to-SQL evaluation, verified code generation, and software engineering agents.
 
-### Featured Projects
+[LinkedIn](https://linkedin.com/in/rockyklop) · [Google Scholar](https://scholar.google.com/citations?user=VoTI91wAAAAJ&hl=en) · [Email](mailto:rklopfenstein27@amherst.edu)
 
-- [verieql-4-text2sql (Python, SQL, SQLite, PostgreSQL, MySQL, veriEQL, Regex, Amherst HPC)](https://github.com/rklop/SURF_2025) -- A two-stage Text‑to‑SQL system that first generates schema-aware SQL using LLM-powered components (TASL and TALOG), then applies formal verification with the veriEQL framework to ensure semantic equivalence across different SQL dialects. Just accepted to MATH-AI, a workshop at NeurlIPS! <br><br>
-- ["Drop AI" (Python, Flask, REST APIs, Selenium, BeautifulSoup, OpenAI API)](https://github.com/rklop/Drop-AI) -- A full-stack platform that transforms raw content into actionable intelligence using Gemini 2.5 Flash. The Flask backend powers email classification, PDF extraction, and multi-function AI pipelines, while the Next.js frontend provides a modern, responsive UI. Key features include automated email replies, PDF summarization, and intelligent routing of content, delivering results in seconds for professionals who need streamlined workflows. <br><br>
-- ["Tagging The Switch" (Python, PyTorch, Hugging Face Transformers, XLM-R, RemBERT, Pandas, Matplotlib)](https://github.com/rklop/tagging-the-switch) -- A multilingual NLP project exploring POS and language‑ID tagging in English‑Spanish code‑switched tweets. It compares single‑task, sequential, and multi‑task training strategies using XLM‑RoBERTa/RemBERT, including dynamic uncertainty‑based loss weighting. <br><br>
-- [Image Edge Detector (Java, Swing, AWT, Sobel Filters, BMP Handling)](https://github.com/rklop/edge-detector) -- A Java desktop app with a GUI that applies Sobel‑based edge detection to BMP images, offering features like grayscale conversion, random edge coloring, and a unique "Stars" edge outline mode.
+## Selected Work
 
-## Connect with Me
-<a href="https://linkedin.com/in/rockyklop">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/>
-</a>
+### [Evaluating Software Engineering Agents](https://github.com/rklop/thesis-amherst)
+Can two patches pass the same tests and still behave differently? My thesis explores this question through iterative patch generation and behavioral test synthesis, with inspectable results from a 100-instance experiment.
 
+### [Text-to-SQL Generation & Verification](https://github.com/rklop/SURF_2025)
+Combines schema-aware SQL generation with bounded equivalence checking using veriEQL. Synthesized counterexample databases help identify incorrect queries that execution on a single database can miss.
+
+*Python · SQL · SMT Solving · LLM Evaluation*
+
+### [Tagging the Switch](https://github.com/rklop/tagging-the-switch)
+Investigates language identification and part-of-speech tagging in English-Spanish code-switched text. Compares single-task, sequential, and multi-task transformer training, including uncertainty-based loss weighting.
+
+*PyTorch · Hugging Face Transformers · Multilingual NLP*
+
+### [Drop AI](https://github.com/rklop/Drop-AI)
+A full-stack application for email classification, reply generation, and PDF analysis, connecting a Flask backend with a Next.js frontend and Gemini-powered processing.
+
+*Python · Flask · Next.js · TypeScript · Gemini*
+
+## Technical Toolkit
+
+**Languages:** Python, Java, SQL, C/C++, TypeScript  
+**AI & Evaluation:** LangGraph, LangChain, MCP / FastMCP, LangSmith, PyTorch, SMT Solvers  
+**Backend & Infrastructure:** FastAPI, PostgreSQL, Redis, Docker, HPC
